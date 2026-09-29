@@ -8,3 +8,5 @@ Carte des salles de sport : afficher sa salle habituelle ainsi que les salles de
 Programmes d'entraînement : une section avec des programmes recommandés comme « Beginner Full Body », « Push/Pull/Legs », « Running 5K », « Weight Loss », etc. L’utilisateur peut ajouter un programme à son planning.
 Profil : âge, taille, poids, objectifs, niveau sportif, salle habituelle et préférences.
 Progression : poids actuel, mesures corporelles, records personnels ou photos de progression si vous souhaitez aller plus loin.
+
+Bonjorvoic ud code
